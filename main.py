@@ -18,7 +18,7 @@ file_path = input("Input file path as raw string.")
 
 # conversations
 conversations = parsing.parse(file_path)
-conversations = conversations[3]
+conversations = conversations[0]
 sentiment = sentiment_analysis(conversations, truncation=True, max_length=512)
 emotion = emotion_analysis(conversations, truncation=True, max_length=512)
 

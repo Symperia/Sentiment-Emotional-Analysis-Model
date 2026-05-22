@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mimoto Module.iml" filepath="$PROJECT_DIR$/.idea/Mimoto Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sentiment Emotional Analysis Model.iml" filepath="$PROJECT_DIR$/.idea/Sentiment Emotional Analysis Model.iml" />
     </modules>
   </component>
 </project>

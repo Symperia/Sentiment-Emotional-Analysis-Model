@@ -1,5 +1,5 @@
 [project]
-name = "mimoto-module"
+name = "Sentiment-Emotional-Analysis-Model"
 version = "0.1.0"
 description = "README.md"
 requires-python = ">=3.13"
